@@ -12,7 +12,7 @@ Thunder Fucker is a Python script that helps you to remove Thunderbird profiles 
 Thunder Fucker is compatible with Windows, macOS, and Linux.
 
 # Warning
-Deleting Thunderbird profiles and configurations will remove all your email accounts, messages, and settings. Make sure to backup your Thunderbird data before running this script.
+Deleting Thunderbird profiles and configurations will remove all your email accounts, messages, and settings.
 
 # Disclaimer
-Thunder Fucker is provided as-is and with no warranty. The author is not responsible for any damage or loss caused by the use of this script.
+Thunder Fucker is provided as-is and with no warranty. The author is not responsible for any damage or loss.
